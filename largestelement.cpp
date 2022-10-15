@@ -17,6 +17,6 @@ int main() {
     for (int i=0; i < n; i++) 
     cout << nums[i] <<" ";
     
-  cout << "\nLargest element of the said array: "<< find_largest(nums, n);
+  cout << "\nLargest element in the  array: "<< find_largest(nums, n);
   return 0;
 }
