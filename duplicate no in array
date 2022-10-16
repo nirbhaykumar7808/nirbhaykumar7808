@@ -10,7 +10,7 @@ int main()
         numRay[numRay[i] % arr_size]
             = numRay[numRay[i] % arr_size] + arr_size;
     }
-    cout << "The repeating elements are : " << endl;
+    cout << "The repeating element are: " << endl;
     for (int i = 0; i < arr_size; i++) {
         if (numRay[i] >= arr_size * 2) {
             cout << i << " " << endl;
