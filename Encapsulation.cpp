@@ -21,5 +21,6 @@ int main() {
   Employee myObj;
   myObj.setSalary(50000);
   cout << myObj.getSalary();
+  //0@*@*@
   return 0;
 }
