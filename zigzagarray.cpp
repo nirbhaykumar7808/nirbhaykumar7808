@@ -25,7 +25,7 @@ int main()
 {
     int nums[] = {0, 1, 3, 4, 5, 6, 7, 8, 10};
     int n = sizeof(nums)/sizeof(nums[0]);
-   	cout << "Original array: ";
+   	cout << "Original array star: ";
     for (int i=0; i < n; i++) 
     cout << nums[i] <<" ";
     zig_zag_array(nums, n);
