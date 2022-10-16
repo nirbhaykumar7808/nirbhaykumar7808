@@ -13,7 +13,7 @@ int main() {
     8
   };
   int n = sizeof(nums) / sizeof(nums[0]);
-    cout << "Original array:";
+    cout << "Original array::";
     for (int i=0; i < n; i++) 
     cout << nums[i] <<" ";
     
