@@ -30,7 +30,7 @@ int main()
     cout << nums[i] <<" ";
     rearrange_max_min(nums, n);
  
-    printf("\nArray elements after rearranging: ");
+    printf("\nArray elements after rearranging arw: ");
       for (int i=0; i < n; i++) 
       cout << nums[i] <<" ";
         return 0;
