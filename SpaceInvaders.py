@@ -25,7 +25,7 @@ white1 = (253, 254, 254)
 dark_gray = (23, 32, 42)
 
 
-# -------------- Space-Ship Class --------------
+# -------------- Creating Space-Ship Class --------------
 class SpaceShip:
     def __init__(self, x, y, w, h, colour):
         self.x = x
