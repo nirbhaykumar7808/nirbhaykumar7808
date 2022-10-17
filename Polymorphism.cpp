@@ -12,7 +12,7 @@ Example
 class Animal {
   public:
     void animalSound() {
-      cout << "The animal makes a sound \n";
+      cout << "The animals makes a sound \n";
     }
 };
 
