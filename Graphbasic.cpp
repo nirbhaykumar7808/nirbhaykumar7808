@@ -11,7 +11,7 @@ int main()
     // m is the number of edges
 
     int n, m;
-//ejjdhdhdhd
+
     cin >> n >> m;
 
     int adjMat[n + 1][n + 1];
