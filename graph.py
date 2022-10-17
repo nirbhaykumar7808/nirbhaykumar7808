@@ -1,3 +1,4 @@
+# Plotting a graph using Matplotlib 
 if __name__ == '__main__':
 
     #  n is the number of vertices
