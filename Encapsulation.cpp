@@ -19,7 +19,7 @@ class Employee {
 
 int main() {
   Employee myObj;
-  myObj.setSalary(50000);
+  myObj.setSalary(500000);
   cout << myObj.getSalary();
   //0@*@*@
   return 0;
