@@ -3,7 +3,7 @@ using namespace std;
  
 void find_greater_elements(int nums[], int n)
 {
-    cout << "\nElements which have at-least two greater elements: ";
+    cout << "\nElements which have at least two greater elements: ";
     for (int i=0; i<n; i++)
     {
         int ctr = 0;
